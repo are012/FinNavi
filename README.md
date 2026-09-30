@@ -55,4 +55,4 @@ HCX-007이 질문의 조건을 해석하고 공시 조회·원문 확인·계산
 
 ## 연락
 
-하제학 · jehak19@kw.ac.kr · [github.com/are012](https://github.com/are012)
+하제학 · qjqqmfql19@naver.com · [github.com/are012](https://github.com/are012)
